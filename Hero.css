@@ -1,0 +1,18 @@
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #4a90e2;
+  color: white;
+}
+.hero button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: white;
+  color: #4a90e2;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.hero button:hover {
+  background: #f0f0f0;
+}

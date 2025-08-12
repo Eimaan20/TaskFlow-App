@@ -1,0 +1,10 @@
+.testimonials {
+  padding: 40px 20px;
+  background: #eef;
+  text-align: center;
+}
+blockquote {
+  margin: 20px auto;
+  max-width: 400px;
+  font-style: italic;
+}
